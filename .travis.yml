@@ -1,0 +1,25 @@
+language: ruby
+rvm:
+  - 2.7.1
+
+services:
+  - postgresql
+
+before_install:
+  - bundle config set deployment 'true'
+  - bundle config --local deployment true
+  - bundle install --quiet --jobs 4
+  - bundle install --path vendor/cache
+
+stages:
+  - compile
+  - test
+  - name: deploy
+    if: branch = main
+
+jobs:
+  include:
+    - stage: tests
+      script:
+        - bundle exec rake spec
+        - bundle exec rake cucumber
