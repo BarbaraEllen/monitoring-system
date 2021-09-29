@@ -15,7 +15,7 @@ stages:
   - compile
   - test
   - name: deploy
-    if: branch = main
+    if: branch = master
 
 jobs:
   include:
