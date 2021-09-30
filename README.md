@@ -9,7 +9,7 @@
 
 ## Integrantes do grupo
 ```
-Barbara Ellen Schorsch Finardi (11207769 - BarbaraEllen
+Barbara Ellen Schorsch Finardi (11207769) - BarbaraEllen
 Gandhi Daiti Miyahara (11207773) - DaitiMiya
 Gustavo da Silva Medici (11271056) - gustavo-ui
 João Matheus Martins Pinheiro (11207939) - Joao-Pinheiro07
