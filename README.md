@@ -7,4 +7,15 @@
 
 [![Coverage Status](https://coveralls.io/repos/github/vascmig/aula_rails/badge.svg?branch=master)](https://coveralls.io/github/vascmig/aula_rails?branch=master)
 
+## Integrantes do grupo
+```
+Barbara Ellen Schorsch Finardi (11207769 - BarbaraEllen
+Gandhi Daiti Miyahara (11207773) - DaitiMiya
+Gustavo da Silva Medici (11271056) - gustavo-ui
+João Matheus Martins Pinheiro (11207939) - Joao-Pinheiro07
+Lucas Yuji Tengan Ikeda (11208346) - LucasTengan
+Vinicius Corrêa de Moraes (11270969) - vncmoraes
+```
+##
+
 https://excelencia-operacional.herokuapp.com/
