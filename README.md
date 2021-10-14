@@ -23,3 +23,6 @@ Vinicius Corrêa de Moraes (11270969) - vncmoraes
 ```
 ## Deploy da aplicação Heroku :dash:
 Link: <a href=https://excelencia-operacional.herokuapp.com/> monitoring-system </a>
+
+## Pivotal Tracker: 
+Link: https://www.pivotaltracker.com/n/projects/2534233
